@@ -5,7 +5,7 @@ A place to organize my personal hobbies, notes, and collections.
 欢迎来到我的爱好小天地！这里记录了我的兴趣、笔记和收藏。
 
 ## 🎮 游戏与娱乐
-- 喜欢的游戏：王者荣耀 和平精英 QQ飞车 steam
+- 喜欢的游戏：王者荣耀 和平精英 QQ飞车 
 - 正在玩的：王者荣耀
 
 ## 📚 阅读与学习
