@@ -10,8 +10,8 @@ A place to organize my personal hobbies, notes, and collections.
 - 正在玩的：王者荣耀
 
 [![游戏图片1](game1.png)](game1.png)
-[![游戏图片2](game2.png)](game1.png)
-[![游戏图片3](game3.png)](game1.png)
+[![游戏图片2](game2.png)](game2.png)
+[![游戏图片3](game3.png)](game3.png)
 
 ## 📚 阅读与学习
 - 最近在读的书：无
