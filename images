@@ -1,3 +1,6 @@
-![游戏图片1](图片/game1.png)
-![游戏图片2](图片/game2.png)
-
+pxj-hobbies1/
+├── README.md
+└── images/
+    ├── game1.jpg
+    ├── game2.jpg
+    └── game3.jpg
