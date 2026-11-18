@@ -9,9 +9,9 @@ A place to organize my personal hobbies, notes, and collections.
 - 喜欢的游戏：王者荣耀 和平精英 QQ飞车 
 - 正在玩的：王者荣耀
 
-![游戏图片1](images/game1.png)
-![游戏图片2](images/game2.png)
-![游戏图片3](images/game3.png)
+[![游戏图片1](images/game1.jpg)](images/game1.jpg)
+[![游戏图片2](images/game2.jpg)](images/game1.jpg)
+[![游戏图片3](images/game3.jpg)](images/game1.jpg)
 
 ## 📚 阅读与学习
 - 最近在读的书：无
